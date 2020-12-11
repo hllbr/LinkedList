@@ -4,6 +4,7 @@ import java.util.LinkedList;
 import java.util.ListIterator;
 public class Main {
     public static void listebastır(LinkedList<String> gidilecek_yerler){
+        //Source = Mustafa Murat COŞKUN / UDEMY referans alınarak geliştirilmiştir..
         /*for(String s:gidilecek_yerler){
             System.out.println(s);
         }*/
